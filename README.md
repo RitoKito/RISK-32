@@ -11,7 +11,7 @@ The following 33 instructions can be executed:\
 
 rs1 - register a\
 rs2 - register b\
-imm - immediate number\
+imm - immediate number
 
 1. add - add two numbers | rs1 + rs2
 2. addi - add a number from register with an immediate number | rs1 + imm
