@@ -1,5 +1,5 @@
 # RISK-XVII
-RISK-XVII is a RISC-32I emulator able to interpret 33 RISC-32I instruction written in Assembly.
+RISK-XVII is a RISC-32I emulator able to interpret 33 RISC-32I instructions written in Assembly.
 
 RISK-XVII consists of:\
 32 registers (32-bits each)\
