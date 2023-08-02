@@ -1,6 +1,12 @@
 # RISK-XVII
 RISK-XVII is a RISC-32I emulator able to interpret 33 RISC-32I instruction written in Assembly.
 
+RISK-XVII consists of: 
+32 registers (32-bits each) 
+PC counter that points to an address of current instruction in memory 
+2048 byte stack memory
+256 byte reserved to veritual routies (special operations such as shut down)
+8192 byte heap banks for dynamic memory
 
 The following 33 instructions can be executed:
 
