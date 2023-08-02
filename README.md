@@ -7,6 +7,7 @@ PC counter that points to an address of current instruction in memory\
 2048 byte stack memory\
 256 byte reserved for vertual routies (special operations such as shut down)\
 8192 byte heap banks for dynamic memory\
+
 The following 33 instructions can be executed:
 
 rs1 - register a\
